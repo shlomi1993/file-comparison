@@ -40,8 +40,8 @@ Note: simulation files attached ex3_resources.zip file.
 This program enters each subdirectory of the directory given in line 1 of the configuration file, look for a C file (in each folder), compile it (if found), run it, and then use ex31.c program to compare the output to the correct output as shown in the file located in the path given in line 3 of the configuration file.
 The output of the program is a CSV file that gives grades for every sub-program output according to ex31.c test (map subdirectory name to a numberic grade).
 
-**Grading System:
-**1. NO_C_FILE	<b>0</b>
+**Grading System:**
+1. NO_C_FILE	<b>0</b>
 2. COMPILATION_ERROR	<b>10</b>
 3. TIMEOUT	<b>20</b>
 4. WRONG	<b>50</b>
